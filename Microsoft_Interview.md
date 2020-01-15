@@ -37,4 +37,4 @@ to learn game programming, and its APIs are excellent." Note how this shows a pa
 You'll only reach the hiring manager if you've done well, so if you do, that's a great sign!
 Additionally, Microsoft tends to give teams more individual control, and the product set is diverse. Experiences can vary substantially across Microsoft since different teams look for different things.
 
-• Reference <Cracking-the-Coding-Interview-6th-Edition-189>
+• Reference: "Cracking-the-Coding-Interview-6th-Edition-189"

@@ -1,9 +1,10 @@
-import speech_recognition as sr
-import webbrowser
 
+import speech_recognition as sr<<<<<<< HEAD
+import webbrowser
 
 r = sr.Recognizer()
 r1 = sr.Recognizer()
+
 with sr.Microphone() as source:
     print("Speak Anything :")
     audio = r.listen(source)
